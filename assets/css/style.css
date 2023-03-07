@@ -62,7 +62,7 @@
   header nav ul li a:hover {
     background: whitesmoke;
     color: green;
-    border-radius: 25px;
+    border-radius: 10px;
     text-shadow: none;
   }
   
