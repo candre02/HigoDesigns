@@ -68,6 +68,32 @@
   
   /* HEADER / NAVBAR STYLES END */
 
+  
+   /* START CONTACT STYLES */
+   .contact {
+    background: rgb(40, 109, 63);
+    padding: 40px 35px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 100%;
+  }
+  
+  .contact h4 {
+    color: rgb(168, 151, 77);
+    font-size: 30px;
+    margin: 0;
+  }
+  
+  .contact p {
+    line-height: 1.5;
+    text-align: center;
+  }
+  
+  .contact a {
+    color: rgb(168, 151, 77);
+  }
+   /* END CONTACT STYLES */
 
 
 
