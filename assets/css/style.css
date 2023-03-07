@@ -89,10 +89,17 @@
     line-height: 1.5;
     text-align: center;
     color: rgb(168, 151, 77);
+    font: bold;
   }
   
   .contact a {
     color: rgb(168, 151, 77);
+    font: bold;
+  }
+
+  .contact br {
+    color:rgb(168, 151, 77) ;
+    font: bold;
   }
    /* END CONTACT STYLES */
 
