@@ -127,6 +127,7 @@
     flex-wrap: wrap;
     align-items: flex-start;
     background-position: 80%;
+    height: 500px;
   }
   
   .hero-cta {
