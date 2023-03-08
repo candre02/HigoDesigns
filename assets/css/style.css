@@ -201,8 +201,16 @@
   margin: auto;
   text-align: center;
   font-family: arial;
+  
+}
+
+.card,
+#OB {
+  margin-bottom: -74px;
+  margin-right: 208px;
   outline: 1px solid whitesmoke;
   position: absolute;
+  padding: '14px',
 }
 
 .price {
