@@ -209,7 +209,7 @@
 #oak {
   padding: 30px;
   box-sizing: border-box;
-  background-color: rgb(168, 151, 77);
+  background-color: rgb(199, 212, 194);
 }
 .price {
   color: grey;
@@ -230,6 +230,24 @@
 
 .card button:hover {
   opacity: 0.7;
+}
+
+
+/* Float four columns side by side */
+.column {
+  float: left;
+  width: 25%;
+  padding: 0 10px;
+}
+
+/* Remove extra left and right margins, due to padding */
+.row {margin: 0 -5px;}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
 }
   /* MY INVENTORY STYLES END */
 
@@ -301,7 +319,7 @@
       width: 80%;
     }
     
-    .trainer {
+    #Payment {
       flex: 0 70%;
     }
     
@@ -316,29 +334,29 @@
       padding: 30px 15px;
     }
   
-    .step h3 {
+    .card h3 {
       flex: 1 100%;
       text-align: center;
     }
   
-    .step-info {
+    .card-info {
       flex: 2 100%;
       text-align: center;
       justify-content: center;
     }
   
-    .step-img {
+    .card-img {
       flex: 0 32%;
       margin-right: 0;
       margin-top: 15px;
       margin-bottom: 15px;
     }
   
-    .step-text {
+    .card-text {
       flex: 100%;  
     }
   
-    .trainer-bio h3, .trainer-bio h4 {
+    #Payment-bio h3, #Payment-bio h4 {
       display: block;
     }
   }
@@ -357,7 +375,7 @@
       width: 100%;
     }
   
-    .trainer {
+    #payment {
       flex: 0 100%;
     }
   
@@ -373,3 +391,12 @@
       order: 3;
     }
   }
+
+  /* Responsive columns */
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+    display: block;
+    margin-bottom: 20px;
+  }
+}
