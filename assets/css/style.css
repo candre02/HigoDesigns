@@ -212,28 +212,31 @@
     float: left;
   }
   
-  .card-info {
+  .media-content {
     flex: 8 100%;
     display: flex;
     flex-wrap: wrap;
     align-items: center;
   }
   
-  .card-img {
+  /* .card-img {
     flex: 1 12%;
     margin-right: 20px;
-  }
+  } */
   
+  .card-image {
+    padding: 25px 25px 
+  }
   .card-img img {
     max-width: 20px;
     float: left;
   }
   
-  .card-text {
+  /* .card-text {
     flex: 10;
-}
+} */
   
-.card-text p {
+.media-content p {
     color: whitesmoke;
     font-size: 10px;
     float: right;
