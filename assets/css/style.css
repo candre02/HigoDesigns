@@ -62,8 +62,9 @@
   header nav ul li a:hover {
     background: whitesmoke;
     color: green;
-    border-radius: 10px;
+    border-radius: 5px;
     text-shadow: none;
+    border-width: 5px;
   }
   
   /* HEADER / NAVBAR STYLES END */
