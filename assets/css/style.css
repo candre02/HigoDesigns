@@ -215,6 +215,7 @@
 .card,
 #OB {
   margin-right: 100px;
+  border-radius: 100px;
 }
 .price {
   color: grey;
