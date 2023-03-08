@@ -150,7 +150,25 @@
 
   /* HERO STYLES END */
 
-
+/* SECTION TITLE STYLES START */
+.section-title {
+    font-size: 48px;
+    border-bottom: 3px solid;
+    color: peru;
+    padding-bottom: 20px;
+    text-align: center;
+    margin: 0 auto 35px auto;
+    width: 50%;
+  }
+  
+  .primary-border {
+    border-color: rgb(40, 109, 63);
+  }
+  
+  .secondary-border {
+    border-color: rgb(168, 151, 77);
+  }
+  /* SECTION TITLE STYLES END */
 
 
 
