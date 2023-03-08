@@ -197,11 +197,11 @@
 
   .card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-  max-width: 200px;
+  max-width: 100px;
   margin: auto;
   text-align: center;
   font-family: arial;
-  outline: 10px solid rgb(40, 109, 63);
+  outline: 50px solid rgb(40, 109, 63);
 }
 
 #OB,
@@ -229,8 +229,9 @@
   background-color: #000;
   text-align: center;
   cursor: pointer;
-  width: 100%;
+  width: 50%;
   font-size: 18px;
+  border-radius: 10px;
 }
 
 .card button:hover {
