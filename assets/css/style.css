@@ -64,7 +64,7 @@
     color: green;
     border-radius: 5px;
     text-shadow: none;
-    border-width: 5px;
+    border-width: 10px;
   }
   
   /* HEADER / NAVBAR STYLES END */
@@ -129,6 +129,7 @@
     align-items: flex-start;
     background-position: 80%;
     margin-bottom: 500px;
+    background-position-x: 300px;
   }
   
   .hero-cta {
