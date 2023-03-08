@@ -211,6 +211,10 @@
   box-sizing: border-box;
   background-color: rgb(199, 212, 194);
 }
+
+#OB {
+  margin-left: 100px;
+}
 .price {
   color: grey;
   font-size: 22px;
@@ -233,23 +237,8 @@
 }
 
 
-/* Float four columns side by side */
-.column {
-  float: left;
-  width: 25%;
-  padding: 0 10px;
-}
 
-/* Remove extra left and right margins, due to padding */
-.row {margin: 0 -5px;}
 
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-  position: absolute;
-}
   /* MY INVENTORY STYLES END */
 
 
