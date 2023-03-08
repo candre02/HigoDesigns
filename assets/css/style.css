@@ -201,6 +201,8 @@
   margin: auto;
   text-align: center;
   font-family: arial;
+  outline: 1px solid whitesmoke;
+  position: absolute;
 }
 
 .price {
