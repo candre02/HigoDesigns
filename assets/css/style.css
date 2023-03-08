@@ -116,7 +116,6 @@
     color:rgb(168, 151, 77);
   }
 
-  
    /* END CONTACT STYLES */
 
  /* HERO STYLES START */
@@ -128,7 +127,7 @@
     flex-wrap: wrap;
     align-items: flex-start;
     background-position: 80%;
-    padding: 40px 65px;
+    padding: 40px 35px;
     margin-bottom: 500px;
     
   }
