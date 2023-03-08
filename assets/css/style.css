@@ -248,6 +248,7 @@
   content: "";
   display: table;
   clear: both;
+  position: absolute;
 }
   /* MY INVENTORY STYLES END */
 
