@@ -103,6 +103,10 @@
     color: green;
     border-radius: 10px;
     text-shadow: none;
+    padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
   }
 
   .contact br {
