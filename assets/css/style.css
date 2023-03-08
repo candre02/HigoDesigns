@@ -201,7 +201,7 @@
   margin: auto;
   text-align: center;
   font-family: arial;
-  outline: 1px solid rgb(40, 109, 63);
+  outline: 10px solid rgb(40, 109, 63);
 }
 
 #OB,
@@ -212,8 +212,9 @@
   background-color: rgb(199, 212, 194);
 }
 
+.card,
 #OB {
-  margin-left: 100px;
+  margin-right: 100px;
 }
 .price {
   color: grey;
