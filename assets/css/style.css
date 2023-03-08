@@ -92,9 +92,16 @@
     font: bold;
   }
   
-  .contact a {
+  .contact a  {
     color: rgb(168, 151, 77);
     font: bold;
+  }
+
+  .contact #social a:hover {
+    background: whitesmoke;
+    color: green;
+    border-radius: 10px;
+    text-shadow: none;
   }
 
   .contact br {
@@ -107,6 +114,8 @@
     font: bold;
     color:rgb(168, 151, 77);
   }
+
+  
    /* END CONTACT STYLES */
 
  /* HERO STYLES START */
