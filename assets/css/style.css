@@ -101,6 +101,14 @@
     color:rgb(168, 151, 77) ;
     font: bold;
   }
+
+  .contact,
+  #brand {
+    font: bold;
+    color:rgb(168, 151, 77);
+  }
+
+
    /* END CONTACT STYLES */
 
 
