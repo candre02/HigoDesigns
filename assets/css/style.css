@@ -183,7 +183,63 @@
   /* Our Story STYLES END */
 
 
-
+  /* MY INVENTORY STYLES START */
+  .cards { 
+    background: black;
+  }
+  
+  .card {
+    margin: 50px auto;
+    padding-bottom: 50px;
+    width: 80%;
+    border-right-color: 1px solid lime;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+    flex: 100px
+  }
+  
+  .card:last-child {
+    border-bottom: none;
+  }
+  
+  .card h3 {
+    color: limegreen;
+    font-size: 10px;
+    flex: 1 30%;
+    float: left;
+  }
+  
+  .card-info {
+    flex: 8 100%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+  
+  .card-img {
+    flex: 1 12%;
+    margin-right: 20px;
+  }
+  
+  .card-img img {
+    max-width: 20px;
+    float: left;
+  }
+  
+  .card-text {
+    flex: 10;
+}
+  
+.card-text p {
+    color: whitesmoke;
+    font-size: 10px;
+    float: right;
+}
+  
+  /* MY INVENTORY STYLES END */
 
 
 
