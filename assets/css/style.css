@@ -128,10 +128,10 @@
     align-items: flex-start;
     background-position: 80%;
     padding: 40px 35px;
-    margin-bottom: 500px;
+   
     
   }
-  
+/*   
   .hero-cta {
     width: 50%;
     text-align: left;
@@ -139,14 +139,14 @@
     font-size: 8px;
     font-family: revert;
     line-height: 15.0;
-  }
+  } */
   
-  .hero-cta h2 {
+  /* .hero-cta h2 {
     font-style: italic;
     font-size: 25px;
     color: #fce138;
     text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
-  }
+  } */
 
   /* HERO STYLES END */
 
