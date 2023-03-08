@@ -201,8 +201,8 @@
   margin: auto;
   text-align: center;
   font-family: arial;
-  margin-bottom: -74px;
-  margin-right: 208px;
+  /* margin-bottom: -74px;
+  margin-right: 208px; */
   outline: 1px solid whitesmoke;
   position: absolute;
   padding: '14px',
