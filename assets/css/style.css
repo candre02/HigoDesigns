@@ -212,11 +212,20 @@
   background-color: rgb(199, 212, 194);
 }
 
-.card,
+
 #OB {
   margin-right: 100px;
-  border-radius: 100px;
+  
 }
+
+#vanilla {
+  margin-left: 250px;
+}
+
+#oak {
+margin-top: 100px;
+}
+
 .price {
   color: grey;
   font-size: 22px;
