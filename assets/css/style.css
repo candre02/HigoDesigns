@@ -221,10 +221,12 @@
 
 #vanilla {
   margin-left: 250px;
+  width: 350px;
 }
 
 #oak {
 margin-top: 100px;
+width: 350px;
 }
 
 .price {
