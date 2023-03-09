@@ -232,8 +232,8 @@
   text-align: center;
   cursor: pointer;
   width: 50%;
-  font-size: 18px;
-  border-radius: 10px;
+  font-size: 10px;
+  border-radius: 8px;
 }
 
 .card button:hover {
