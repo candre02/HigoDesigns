@@ -220,12 +220,12 @@
 }
 
 #vanilla {
-  margin-left: 250px;
+ position: absolute;
   width: 350px;
 }
 
 #oak {
-margin-top: 100px;
+position: fixed;
 width: 350px;
 }
 
