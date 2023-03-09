@@ -210,24 +210,12 @@
   padding: 100px;
   box-sizing: border-box;
   background-color: rgb(199, 212, 194);
-}
-
-
-#OB {
   position: relative;
   width: 350px;
-  
 }
 
-#vanilla {
- position: absolute;
-  width: 350px;
-}
 
-#oak {
-position: fixed;
-width: 350px;
-}
+
 
 .price {
   color: grey;
