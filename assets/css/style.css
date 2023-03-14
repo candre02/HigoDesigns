@@ -204,6 +204,10 @@
   outline: 5px solid rgb(40, 109, 63);
 }
 
+.OB1 {
+  position: center 10px;
+}
+
 #OB,
 #Vanilla,
 #oak {
