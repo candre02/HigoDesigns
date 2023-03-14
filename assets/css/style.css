@@ -215,7 +215,11 @@
   height: 500px;
 }
 
-
+.img1,
+.img2,
+.img3 {
+  padding: 100px;
+}
 
 
 .price {
