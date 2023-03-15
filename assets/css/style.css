@@ -412,7 +412,7 @@
   }
 }
 
-/* bg-img  */
+/* MEDIA QUERY FOR BACKGROUND IMAGE  */
 @media (max-width: 480px) {
   #picblock {
     background-image: url(trailcandles.jpg);
