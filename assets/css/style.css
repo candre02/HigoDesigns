@@ -250,6 +250,15 @@
   margin-bottom: 50px;
 }
 
+#ob_title,
+#vani_title,
+#oak_title {
+  margin-top: -35px;
+}
+
+.cart_btn {
+  margin-bottom: 10px;
+}
 
   /* MY INVENTORY STYLES END */
 
