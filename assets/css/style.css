@@ -326,6 +326,7 @@
       width: 100%;
     }
   
+    /* MEDIA QUERY FOR BACKGROUND IMAGE  */
     .hero {
       width: 100%;
       background-position: center;
@@ -335,6 +336,7 @@
       background-image: url("../images/trialcandles.jpg");
     }
 
+    /* MEDIA QUERY FOR SMALLER DESKTOP SCREENS AND SMALLER */
     .hero-cta, .hero-form {
       width: 100%;
     }
@@ -394,7 +396,7 @@
     .hero-form button {
       width: 100%;
     }
-
+    /* MEDIA QUERY FOR BACKGROUND IMAGE  */
     .hero {
       width: 100%;
       background-position: center;
@@ -404,6 +406,7 @@
       background-image: url("../images/trialcandles.jpg");
     }
   
+    /* MEDIA QUERY FOR SMALLER DESKTOP SCREENS AND SMALLER */
     .section-title {
       width: 95%;
     }
@@ -438,7 +441,7 @@
   }
 }
 
-/* MEDIA QUERY FOR BACKGROUND IMAGE  */
+/* MEDIA QUERY FOR BACKGROUND IMAGE 
 @media (max-width: 480px) {
   #picblock {
     background-image: url(trailcandles.jpg);
@@ -452,5 +455,5 @@
     background-repeat: no-repeat;
     background-size: contain ;
   }
-}
+} */
 
