@@ -109,6 +109,11 @@
   display: inline-block;
   }
 
+  #social a:hover {
+background-color: whitesmoke;
+color: green;
+  }
+
   .contact br {
     color:rgb(168, 151, 77) ;
     font: bold;
