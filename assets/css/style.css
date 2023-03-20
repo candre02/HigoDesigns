@@ -125,12 +125,13 @@
  /* HERO STYLES START */
  .hero {
     background-image: url('../images/trialcandles.jpg');
-    background-size: cover;
+    background-size:cover !important;
     display: flex;
     justify-content: flex-end;
     flex-wrap: wrap;
     align-items: flex-start;
-    background-position: 80%;
+    background-position: center;
+    overflow: hidden;
     padding: 40px 15px;
    margin-bottom: 200px;
    height: 700px;
@@ -327,6 +328,11 @@
   
     .hero {
       width: 100%;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size:cover !important;
+      overflow: hidden;
+      background-image: url("../images/trialcandles.jpg");
     }
 
     .hero-cta, .hero-form {
@@ -391,6 +397,11 @@
 
     .hero {
       width: 100%;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size:cover !important;
+      overflow: hidden;
+      background-image: url("../images/trialcandles.jpg");
     }
   
     .section-title {
