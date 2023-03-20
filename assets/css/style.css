@@ -325,6 +325,10 @@
       width: 100%;
     }
   
+    .hero {
+      width: 100%;
+    }
+
     .hero-cta, .hero-form {
       width: 100%;
     }
@@ -384,6 +388,10 @@
     .hero-form button {
       width: 100%;
     }
+
+    .hero {
+      width: 100%;
+    }
   
     .section-title {
       width: 95%;
@@ -434,3 +442,4 @@
     background-size: contain ;
   }
 }
+
