@@ -99,8 +99,8 @@
   }
 
   .contact #social a:hover {
-    background: whitesmoke;
-    color: green;
+    /* background: whitesmoke;
+    color: green; */
     border-radius: 10px;
     text-shadow: none;
     padding: 14px 25px;
