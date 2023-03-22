@@ -98,8 +98,9 @@
     font: bold;
   }
 
-  .contact #social a:hover {
-    
+  .contact  a:hover {
+    background-color: whitesmoke;
+  color: green;
     border-radius: 10px;
     text-shadow: none;
     padding: 14px 25px;
@@ -108,10 +109,7 @@
   display: inline-block;
   }
 
- #social a:hover {
-  background-color: whitesmoke;
-  color: green;
- }
+
 
   .contact br {
     color:rgb(168, 151, 77) ;
