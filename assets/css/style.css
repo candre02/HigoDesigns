@@ -113,14 +113,14 @@
 
 
   .contact br {
-    color:rgb(168, 151, 77) ;
+    color:whitesmoke ;
     font: bold;
   }
 
   .contact,
   #brand {
     font: bold;
-    color:rgb(168, 151, 77);
+    color:whitesmoke;
   }
 
    /* END CONTACT STYLES */
