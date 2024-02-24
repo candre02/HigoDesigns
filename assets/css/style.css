@@ -184,8 +184,13 @@
   /* SECTION TITLE STYLES END */
 
  /* Our Story STYLES */
+#about {
+
+}
+ 
   .intro {
     background-color: rgb(34,29,41);
+    margin-top: -200px;
   }
 
 
