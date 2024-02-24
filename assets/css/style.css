@@ -165,7 +165,7 @@
 .section-title {
     font-size: 48px;
     border-bottom: 3px solid;
-    color: whitesmoke;
+    color: rgb(34,29,41);
     padding-bottom: 20px;
     text-align: center;
     margin: 0 auto 35px auto;
@@ -187,9 +187,7 @@
     background-color: rgb(34,29,41);
   }
 
-  .intro body {
-    background-color: rgb(34,29,41);
-  }
+
  .intro p {
     line-height: 1.7;
     color: whitesmoke;
