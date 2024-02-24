@@ -184,13 +184,11 @@
   /* SECTION TITLE STYLES END */
 
  /* Our Story STYLES */
-#about {
-
-}
  
   .intro {
     background-color: rgb(34,29,41);
     margin-top: -200px;
+    color: whitesmoke;
   }
 
 
@@ -208,6 +206,7 @@
   /* MY INVENTORY STYLES START */
   .cards { 
     background: rgb(3, 39, 18);
+    color: whitesmoke;
   }
 
   .card {
@@ -233,9 +232,6 @@
   width: 350px;
   height: 530px;
 }
-
-
-
 
 .price {
   color: grey;
