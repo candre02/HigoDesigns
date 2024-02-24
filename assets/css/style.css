@@ -165,7 +165,7 @@
 .section-title {
     font-size: 48px;
     border-bottom: 3px solid;
-    color: peru;
+    color: whitesmoke;
     padding-bottom: 20px;
     text-align: center;
     margin: 0 auto 35px auto;
@@ -173,7 +173,7 @@
   }
   
   .primary-border {
-    border-color: rgb(40, 109, 63);
+    border-color: rgb(3, 39, 18);
   }
   
   .secondary-border {
