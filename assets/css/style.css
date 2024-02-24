@@ -14,7 +14,7 @@
   
   header {
     padding: 40px 35px;
-    background-color:rgb(3, 14, 7);
+    background-color:rgb(1, 26, 10);
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
@@ -70,60 +70,7 @@
   
   /* HEADER / NAVBAR STYLES END */
 
-  
-   /* START CONTACT STYLES */
-   .contact {
-    background: rgb(3, 39, 18);
-    padding: 40px 35px;
-    display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
-    width: 100%;
-  }
-  
-  .contact h4 {
-    color: whitesmoke;
-    font-size: 30px;
-    margin: 0;
-  }
-  
-  .contact p {
-    line-height: 1.5;
-    text-align: center;
-    color: whitesmoke;
-    font: bold;
-  }
-  
-  .contact a  {
-    color: whitesmoke;
-    font: bold;
-  }
 
-  .contact  a:hover {
-    background-color: rgb(127, 110, 151);
-  color: rgb(3, 39, 18);
-    border-radius: 10px;
-    text-shadow: none;
-    padding: 5px 2px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  }
-
-
-
-  .contact br {
-    color:whitesmoke ;
-    font: bold;
-  }
-
-  .contact,
-  #brand {
-    font: bold;
-    color:whitesmoke;
-  }
-
-   /* END CONTACT STYLES */
 
  /* HERO STYLES START */
  .hero {
@@ -162,7 +109,7 @@
 
   /* HERO STYLES END */
 
-/* SECTION TITLE STYLES START */
+/* SECTION TITLE STYLES START border lines */
 .section-title {
     font-size: 48px;
     border-bottom: 3px solid;
@@ -170,8 +117,7 @@
     padding-bottom: 20px;
     text-align: center;
     margin: 0 auto 35px auto;
-    width: 50%;
-    
+    width: 50%;  
   }
   
   .primary-border {
@@ -184,13 +130,11 @@
   /* SECTION TITLE STYLES END */
 
  /* Our Story STYLES */
- 
   .intro {
     background-color: rgb(14, 11, 19);
     margin-top: -200px;
     color: whitesmoke;
   }
-
 
  .intro p {
     line-height: 1.7;
@@ -203,7 +147,7 @@
   /* Our Story STYLES END */
 
 
-  /* MY INVENTORY STYLES START */
+  /* MY INVENTORY STYLES START : cards section */
   .cards { 
     background: rgb(3, 39, 18);
     color: whitesmoke;
@@ -278,13 +222,67 @@
   margin-bottom: 10px;
 }
 
+/* payment section */
 .paypal {
   background-color: rgb(14, 11, 19);
 }
 
   /* MY INVENTORY STYLES END */
 
+  
+   /* START CONTACT STYLES */
+   .contact {
+    background: rgb(3, 39, 18);
+    padding: 40px 35px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 100%;
+  }
+  
+  .contact h4 {
+    color: whitesmoke;
+    font-size: 30px;
+    margin: 0;
+  }
+  
+  .contact p {
+    line-height: 1.5;
+    text-align: center;
+    color: whitesmoke;
+    font: bold;
+  }
+  
+  .contact a  {
+    color: whitesmoke;
+    font: bold;
+  }
 
+  .contact  a:hover {
+    background-color: rgb(127, 110, 151);
+  color: rgb(3, 39, 18);
+    border-radius: 10px;
+    text-shadow: none;
+    padding: 5px 2px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  }
+
+
+
+  .contact br {
+    color:whitesmoke ;
+    font: bold;
+  }
+
+  .contact,
+  #brand {
+    font: bold;
+    color:whitesmoke;
+  }
+
+   /* END CONTACT STYLES */
 
 
 
