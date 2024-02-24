@@ -170,7 +170,7 @@
     text-align: center;
     margin: 0 auto 35px auto;
     width: 50%;
-    background-color: rgb(34,29,41);
+    
   }
   
   .primary-border {
@@ -184,6 +184,10 @@
 
  /* Our Story STYLES */
   .intro {
+    background-color: rgb(34,29,41);
+  }
+
+  .intro body {
     background-color: rgb(34,29,41);
   }
  .intro p {
